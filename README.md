@@ -3,7 +3,7 @@
 <table>
     <tr>
         <td>
-            <img src="https://raw.githubusercontent.com/kevink16-1/PROJETO-MARIO-KART/docs/header.gif" alt="Mario Kart" width="200">
+            <img src="https://raw.githubusercontent.com/kevink16-1/PROJETO-MARIO-KART/main/docs/header.gif" alt="Mario Kart" width="200">
         </td>
         <td>
             <b>Objetivo:</b>
@@ -44,10 +44,10 @@ Este jogo foi criado para praticar programação de um jeito mais leve e criativ
 ## Como executar
 
 1. Tenha o Node.js instalado (versão 18 ou superior)
-2. No terminal, rode:
+2. No terminal (na pasta raiz), rode:
 
 ```bash
-node index.js
+node .\projeto-mario\index.js
 ```
 
 ---
