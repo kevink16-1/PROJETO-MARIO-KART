@@ -22,6 +22,20 @@ Este jogo foi criado para praticar programação de um jeito mais leve e criativ
 
 ---
 
+## Estrutura de pastas
+
+```text
+projeto-mario/
+├── README.txt
+└── projeto-mario/
+    ├── index.js
+    ├── package.json
+    ├── package-lock.json
+    └── README.md
+```
+
+---
+
 ## O que acontece no jogo
 
 * Dois jogadores escolhem personagens
