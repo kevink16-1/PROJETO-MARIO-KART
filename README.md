@@ -3,7 +3,7 @@
 <table>
     <tr>
         <td>
-            <img src="https://raw.githubusercontent.com/kevink16-1/PROJETO-MARIO-KART/main/docs/header.gif" alt="Mario Kart" width="200">
+            <img src="https://raw.githubusercontent.com/kevink16-1/PROJETO-MARIO-KART/docs/header.gif" alt="Mario Kart" width="200">
         </td>
         <td>
             <b>Objetivo:</b>
